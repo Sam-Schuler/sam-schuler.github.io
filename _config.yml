@@ -3,4 +3,8 @@ description: Skulpturen aus Stein und Beton
 remote_theme: jekyll/minima
 
 minima:
+  social_links:
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/samuelschuler.de/"
   hide_site_feed_link: true
