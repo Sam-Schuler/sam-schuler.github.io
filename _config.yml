@@ -1,4 +1,6 @@
-# Basis-Infos
 title: Samuel Schuler
 description: Skulpturen aus Stein und Beton
 remote_theme: jekyll/minima
+
+minima:
+  hide_site_feed_link: true
