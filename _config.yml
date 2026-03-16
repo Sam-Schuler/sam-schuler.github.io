@@ -1,11 +1,14 @@
 title: Samuel Schuler
 description: Skulpturen aus Stein und Beton
-remote_theme: jekyll/minima
+author:
+    name: GitHub User
+    email: sam-schuler@web.de
 
+remote_theme: jekyll/minima
 minima:
   social_links:
     - title: Mail
-      icon: square-envelope
+      icon: at
       url: "mailto:sam-schuler@web.de"
     - title: Instagram
       icon: instagram
