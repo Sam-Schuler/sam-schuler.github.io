@@ -4,10 +4,10 @@ remote_theme: jekyll/minima
 
 minima:
   social_links:
+    - title: Mail
+      icon: envelope
+      url: "mailto:sam-schuler@web.de"
     - title: Instagram
       icon: instagram
       url: "https://www.instagram.com/samuelschuler.de/"
-      - title: Mail
-      icon: envelope
-      url: "mailto:sam-schuler@web.de"
   hide_site_feed_link: true
